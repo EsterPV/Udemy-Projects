@@ -1,0 +1,15 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "WebApp que muestra el tiempo usando una API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ester P",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1"
+  }
+}
